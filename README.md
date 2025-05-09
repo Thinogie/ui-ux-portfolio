@@ -2,8 +2,6 @@
 A curated portfolio of my UI/UX design projects built with Figma.
 
 
-Here are some of my Figma-based design projects.
-
 ## 🧋 Brew Gallery - A Coffee Recipe Mobile Application
 A mobile app showcasing various coffee recipes with a user-friendly and visually appealing interface with detailed steps and visuals.
 
